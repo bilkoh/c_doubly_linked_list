@@ -7,7 +7,6 @@
  */
 
 #include <stdlib.h>
-#include <time.h>
 #include "dll.h"
 
 dll_t*
